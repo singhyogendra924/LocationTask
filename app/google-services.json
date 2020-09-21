@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79849402199",
+    "firebase_url": "https://isentropic-card-290009.firebaseio.com",
+    "project_id": "isentropic-card-290009",
+    "storage_bucket": "isentropic-card-290009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79849402199:android:76a8732777a22278751812",
+        "android_client_info": {
+          "package_name": "in.maiddo.task1location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79849402199-1ilt19f9k7dt1amv63rjavpe6tf422k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Qd4xGQgfWsFfJu7IAqfLN1WvU3-WXkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79849402199-1ilt19f9k7dt1amv63rjavpe6tf422k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

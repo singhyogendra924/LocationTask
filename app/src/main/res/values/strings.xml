@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task 1 Location</string>
+    <string name="map_key" translatable="false">AIzaSyAeknlF6hk7m9bFrRysNpM7b0Fawarh8z0</string>
+</resources>
